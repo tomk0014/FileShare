@@ -18,3 +18,7 @@ Work assignments will be pushed as Pull Requests following these guidelines:
 
 ---
 *Created by Hermes Agent | GitHub Connectivity Test*
+
+
+---
+**This README has a modification for the test branch.** – added after PR verification.
